@@ -1,0 +1,35 @@
+.navbar-brand img{
+    width: 40px;
+}
+.navbar{
+    background: rgb(186, 186, 250);
+}
+.breadcrumb ol{
+
+}
+.breadcrumb ol li{
+
+}
+ a{
+    text-decoration: none;
+    
+}
+.breadcrumb{
+    background: rgba(182, 176, 182, 0.4);
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 5px;
+
+}
+.toasts-header{
+    box-shadow: 4px 4px 20px 0 rgba(0,0,0, 1);
+    margin-top: 20px;
+}
+.slider-content img{
+    width: 100%;
+    height: 400px;
+}
+.bottom-top{
+    width: 900px;
+    margin: auto;
+}
